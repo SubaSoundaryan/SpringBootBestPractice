@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.best.practice.BestPractice.services.impl.UserMasterServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-14T05:09:21" hostname="Claritys-MacBook-Air.local" time="0.313">
+  <properties/>
+  <testcase name="getByUserNameFailureCase()" classname="com.best.practice.BestPractice.services.impl.UserMasterServiceImplTest" time="0.302"/>
+  <testcase name="addUser()" classname="com.best.practice.BestPractice.services.impl.UserMasterServiceImplTest" time="0.006"/>
+  <testcase name="shouldFailWhenCommentContainsSwearWords()" classname="com.best.practice.BestPractice.services.impl.UserMasterServiceImplTest" time="0.001"/>
+  <testcase name="userLoginTest()" classname="com.best.practice.BestPractice.services.impl.UserMasterServiceImplTest" time="0.001"/>
+  <testcase name="shouldNotContainsSwearInsideComment()" classname="com.best.practice.BestPractice.services.impl.UserMasterServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
